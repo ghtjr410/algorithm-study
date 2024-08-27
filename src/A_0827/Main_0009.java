@@ -17,5 +17,6 @@ public class Main_0009 {
         System.out.println(res2);
         System.out.println(res3);
         System.out.println(res4);
+        sc.close();
     }
 }

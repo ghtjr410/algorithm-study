@@ -9,5 +9,6 @@ public class Main_0005 {
         double B = sc.nextDouble();
         
         System.out.println(A/B);
+        sc.close();
     }
 }

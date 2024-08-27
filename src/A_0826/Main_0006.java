@@ -10,5 +10,6 @@ public class Main_0006 {
         int B = sc.nextInt();
 
         System.out.printf("%d\n%d\n%d\n%d\n%d", A+B, A-B, A*B, A/B, A%B);
+        sc.close();
     }
 }
