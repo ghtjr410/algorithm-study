@@ -18,6 +18,7 @@ public class Main_0015 {
                 sc.next();
             }
         }
+        sc.close();
         
         if ( score >= 90) System.out.println("A");
         else if ( score >= 80 ) System.out.println("B");
