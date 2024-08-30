@@ -14,6 +14,8 @@ public class Main_0018 {
         int hour = getVaildHour(sc);
         int minute = getVaildMinute(sc);
 
+        sc.close();
+        
         int[] result = calculateResult(hour, minute);
         System.out.println(result[0] + " " + result[1]);
     }
